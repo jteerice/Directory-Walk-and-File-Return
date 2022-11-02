@@ -4,4 +4,4 @@ This python script enables a user to walk a designated directory and pull variou
 
 # Usage
 
-Simply run the script and follow the prompts
+Simply run the script and follow the prompts.
