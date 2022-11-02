@@ -1,19 +1,9 @@
-''' IMPORT STANDARD LIBRARIES '''
 import os                           # File System Methods
 import time                         # Time Conversion Methods
 import sys                          # System Methods
 import hashlib                      # Python standard library hashlib
 
-''' IMPORT 3RD PARTY LIBRARIES '''
 from prettytable import PrettyTable # Pretty Table
-
-''' DEFINE PSEUDO CONSTANTS '''
-
-''' LOCAL FUNCTIONS ''
-
-''' LOCAL CLASSES '''
-
-''' MAIN ENTRY POINT '''
 
 if __name__ == '__main__':
 
